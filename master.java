@@ -1,6 +1,6 @@
 class evenodd{
 	public static void main(String[] args){
-		n=19;
+		n=10;
 		if(n%2==0){
 			System.out.println("odd");
 		}
